@@ -1,4 +1,4 @@
-import { parseInput } from "../../utils";
+import { parseInput } from "../utils";
 import { sumAllPowers } from "./cubeGameTwo";
 import { sumOfPossibleGameIDs } from "./cubesGames";
 import { input2 } from "./input";

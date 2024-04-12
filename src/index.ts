@@ -1,8 +1,8 @@
-import { calculateSumOfCalibrationValues } from "./day1/calibration/calibration";
-import { input } from "./day1/calibration/input";
-import { sumAllPowers } from "./day2/cubesGame/cubeGameTwo";
-import { sumOfPossibleGameIDs } from "./day2/cubesGame/cubesGames";
-import { input2 } from "./day2/cubesGame/input";
+import { calculateSumOfCalibrationValues } from "./day1/calibration";
+import { input } from "./day1/input";
+import { sumAllPowers } from "./day2/cubeGameTwo";
+import { sumOfPossibleGameIDs } from "./day2/cubesGames";
+import { input2 } from "./day2/input";
 import { parseInput } from "./utils";
 
 // DAY 1 this method implements the solution for the two tests in day 1
