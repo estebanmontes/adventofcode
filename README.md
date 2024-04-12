@@ -1,4 +1,4 @@
-# Welcome to the advent of code, code solutions!
+# Welcome to the advent of code! (code solutions)!
 
 📖 See the [Advent of code](https://adventofcode.com/) for details on how the challanages was made.
 
